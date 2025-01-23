@@ -10,7 +10,7 @@ const Features = () => {
         <div className="container">
           <SectionTitle
             title="Main Features"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            paragraph="web and mobile app development company specializing in industries like healthcare, eCommerce, and finance. They leverage technologies such as Java, .NET, and MySQL to deliver impactful solutions."
             center
           />
 
