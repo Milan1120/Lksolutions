@@ -8,19 +8,8 @@ const Placement = () => {
   return (
     <>
       <Breadcrumb pageName="Placement Page" description="" />
-      <div className="px-30 overflow-hidden py-16 md:py-20 lg:py-28">
+      <div className="overflow-hidden py-16 md:py-20 lg:py-28 px-30">
         {" "}
-        {/* Stack elements vertically and center them */}
-        {/* Centered Image */}
-        {/* <div className="flex justify-center">
-               <Image
-                 src="/images/blog/blog-01.jpg" // Corrected the image path
-                 alt="Placement Icon"
-                 width={500} // Adjust width as needed
-                 height={500} // Adjust height as needed
-                 className="object-contain"
-               />*/}
-        {/* Text content below the image */}
         <div className="flex-row">
           <h1 className="flex-row text-3xl font-bold">
             Technical Training and Placement: A Pathway to Professional
