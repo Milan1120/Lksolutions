@@ -113,7 +113,7 @@ const Services = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="card swiper-slide srvc_mr pro-x wow fadeInUp rounded-[10px] border-2 border-dotted border-[#bbb] bg-transparent py-7 pr-7 lg:w-[31%]">
+                  {/* <div className="card swiper-slide srvc_mr pro-x wow fadeInUp rounded-[10px] border-2 border-dotted border-[#bbb] bg-transparent py-7 pr-7 lg:w-[31%]">
                     <div className="">
                       <div className="overlay"></div>
                       <div className="product-block">
@@ -157,7 +157,7 @@ const Services = () => {
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> */}
                   <div className="card swiper-slide srvc_mr pro-x wow fadeInUp rounded-[10px] border-2 border-dotted border-[#bbb] bg-transparent py-7 pr-7 lg:w-[31%]">
                     <div className="">
                       <div className="overlay"></div>
