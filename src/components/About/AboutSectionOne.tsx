@@ -24,8 +24,8 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="Internship/Placements "
+                paragraph="The main ‘thrust’ is to focus on educating attendees on essential domains such as mobile development, web development, UI/UX design, backend development, digital marketing, and HR recruitment through interactive panel discussions and roundtables."
                 mb="44px"
               />
 
@@ -35,30 +35,30 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Mobile Development" />
+                    <List text="Web Development" />
+                    <List text="UI/UX Design" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="Backend Development" />
+                    <List text="Digital Marketing" />
+                    <List text="HR Recruitment" />
                   </div>
                 </div>
               </div>
             </div>
 
             <div className="w-full px-4 lg:w-1/2">
-              <div className="relative mx-auto aspect-[25/24] max-w-[500px] lg:mr-0">
+              <div className="relative mx-auto aspect-[28/24] max-w-[600px] lg:mr-0">
                 <Image
-                  src="/images/about/about-image.svg"
+                  src="/images/brands/i123455.jpg"
                   alt="about-image"
                   fill
                   className="mx-auto max-w-full drop-shadow-three dark:hidden dark:drop-shadow-none lg:mr-0"
                 />
                 <Image
-                  src="/images/about/about-image-dark.svg"
+                  src="/images/brands/i123455.jpg"
                   alt="about-image"
                   fill
                   className="mx-auto hidden max-w-full drop-shadow-three dark:block dark:drop-shadow-none lg:mr-0"

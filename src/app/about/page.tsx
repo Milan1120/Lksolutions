@@ -1,3 +1,4 @@
+import BusinessCarousel from "@/components/About/AboutBusinessCarousel";
 import AboutSectionOne from "@/components/About/AboutSectionOne";
 import AboutSectionTwo from "@/components/About/AboutSectionTwo";
 import AboutstatCard from "@/components/About/AboutstatCard";
@@ -23,6 +24,7 @@ const AboutPage = () => {
       />
       <AboutstatCard/>
       <ClientCompanies/>
+      <BusinessCarousel/>
       <AboutSectionOne />
       <AboutSectionTwo />
     </>

@@ -2,10 +2,10 @@ import React from "react";
 
 const AboutstatCard = () => {
   const stats = [
-    { number: "25+", text: "Years Of Delivering Excellence", bg: "bg-transparent" },
-    { number: "300+", text: "Available Career Courses", bg: "bg-transparent" },
+    { number: "2+", text: "Years Of Delivering Excellence", bg: "bg-transparent" },
+    { number: "20+", text: "Available Career Courses", bg: "bg-transparent" },
     { number: "200+", text: "Tie-Up Companies For Placement", bg: "bg-transparent" },
-    { number: "60,000+", text: "Trained & Placed Students", bg: "bg-transparent" },
+    { number: "1,000+", text: "Trained & Placed Students", bg: "bg-transparent" },
   ];
 
   return (
