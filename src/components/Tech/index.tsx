@@ -3,7 +3,7 @@ import React from "react";
 
 const Tech = () => {
   return (
-    <div className="flex justify-center items-center h-110 py-2">
+    <div className="flex justify-center items-center h-110">
       <img
         src="/images/tech.png" alt="Tech" className="h-[100%]" />
     </div>
