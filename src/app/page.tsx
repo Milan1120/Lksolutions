@@ -7,6 +7,7 @@ import Contact from "@/components/Contact";
 import Features from "@/components/Features";
 import Hero from "@/components/Hero";
 import Pricing from "@/components/Pricing";
+import Services from "@/components/Services";
 import Testimonials from "@/components/Testimonials";
 import Video from "@/components/Video";
 import { Metadata } from "next";
@@ -23,6 +24,7 @@ export default function Home() {
       <ScrollUp />
       <Hero />
       <Features />
+      <Services />
       <Video />
       <Brands />
       <AboutSectionOne />
