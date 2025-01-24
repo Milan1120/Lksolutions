@@ -30,7 +30,7 @@ const BusinessCarousel = () => {
         <section className="py-16  md:py-16 md:px-8 lg:px-20 lg:py-28  overflow-hidden ">
             <h2 className="text-center text-2xl md:text-3xl font-bold mb-8">
                 Become a Next Gen Business with{" "}
-                <span className="text-blue-500">Lksolutions?</span>
+                <span className="text-blue-500">Lksolution?</span>
             </h2>
             <div className="relative overflow-hidden">
                 {/* Animated Scrolling Container */}

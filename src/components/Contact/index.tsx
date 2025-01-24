@@ -79,7 +79,7 @@ const Contact = () => {
                       type="submit"
                       className="rounded-sm bg-primary px-9 py-4 text-base font-medium text-white shadow-submit duration-300 hover:bg-primary/90 dark:shadow-submit-dark"
                     >
-                      Submit Ticket
+                      Submit Message
                     </button>
                   </div>
                 </div>
