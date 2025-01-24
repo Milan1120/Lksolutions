@@ -19,7 +19,7 @@ const Grid = () => {
               className="mx-auto"
             />
             <span className="counter count-digit counter-loaded font-bold">
-              14
+              7
             </span>
             <span className="font-bold">+</span>
             <p className="font-semibold text-black">
@@ -40,7 +40,7 @@ const Grid = () => {
               className="mx-auto"
             />
             <span className="counter count-digit counter-loaded font-bold">
-              1850
+              110
             </span>
             <span className="font-bold">+</span>
             <p className="font-semibold text-black">
@@ -61,7 +61,7 @@ const Grid = () => {
               className="mx-auto"
             />
             <span className="counter count-digit counter-loaded font-bold">
-              26
+              1
             </span>
             <span className="font-bold">M+</span>
             <p className="font-semibold text-black">
@@ -82,7 +82,7 @@ const Grid = () => {
               className="mx-auto"
             />
             <span className="counter count-digit counter-loaded font-bold">
-              70
+              200
             </span>
             <span className="font-bold">+</span>
             <p className="font-semibold text-black">Team Members</p>
@@ -101,7 +101,7 @@ const Grid = () => {
               className="mx-auto"
             />
             <span className="counter count-digit counter-loaded font-bold">
-              1200
+              98
             </span>
             <span className="font-bold">+</span>
             <p className="font-semibold text-black">
@@ -110,11 +110,11 @@ const Grid = () => {
           </div>
         </div>
         <div className="flex flex-col sm:flex-row justify-center items-center sm:items-start">
-            <a href="" target="_blank" className="px-5 py-2 bg-purple-500 rounded-md text-white sm:mr-4 font-normal block text-center btn-data btn-utl">Become
+            <a href="https://docs.google.com/forms/d/13e-SD_N9kFctfhTaCEQCpmgvU1_JUVjKwvDoOiWFaOw/edit" target="_blank" className="px-5 py-2 bg-purple-500 rounded-md text-white sm:mr-4 font-normal block text-center btn-data btn-utl">Become
                 a Partner</a>
-            <a href="" className="px-5 py-2 bg-red-500 rounded-md text-white  sm:mr-4 font-normal block text-center btn-data  btn-utl">Get
+            <a href="https://docs.google.com/forms/d/13e-SD_N9kFctfhTaCEQCpmgvU1_JUVjKwvDoOiWFaOw/edit" target="_blank" className="px-5 py-2 bg-red-500 rounded-md text-white  sm:mr-4 font-normal block text-center btn-data  btn-utl">Get
                 a Quote</a>
-            <a href="" className="px-5 py-2 bg-blue-500 rounded-md text-white font-normal block text-center btn-data  btn-utl">Hire
+            <a href="https://docs.google.com/forms/d/13e-SD_N9kFctfhTaCEQCpmgvU1_JUVjKwvDoOiWFaOw/edit" target="_blank" className="px-5 py-2 bg-blue-500 rounded-md text-white font-normal block text-center btn-data  btn-utl">Hire
                 Resources</a>
         </div>
     </>);
