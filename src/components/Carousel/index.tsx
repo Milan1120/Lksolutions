@@ -23,7 +23,7 @@ const MyCarousel = () => {
         showStatus={false}>
         {images.map((image, index) => (
           <div key={index}>
-            <img className="object-cover w-full h-full rounded-lg"
+            <img
               alt={`Image ${index + 1}`}
               src={`${baseUrl}/${image}`}
             />
