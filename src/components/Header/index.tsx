@@ -46,7 +46,7 @@ const Header = () => {
             ? "dark:bg-gray-dark dark:shadow-sticky-dark fixed z-[9999] bg-white !bg-opacity-80 shadow-sticky backdrop-blur-sm transition"
             : "absolute bg-transparent"
         }`}
-        style={{ padding: "0.2rem 0" }} // Reduced padding
+        // style={{ padding: "0.2rem 0" }} // Reduced padding
       >
         <div className="container">
           <div className="relative -mx-4 flex items-center justify-between">
@@ -55,7 +55,7 @@ const Header = () => {
                 href="/"
                 className={`header-logo block w-full ${
                   sticky ? "py-3 lg:py-1" : "py-5"
-                }`} // Adjusted logo padding
+                }`} 
               >
                 <Image
                   src="/images/logo/logo-2.svg"

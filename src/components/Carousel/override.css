@@ -2,23 +2,24 @@
     width: 100% !important;
     height: 100% !important;
 }
-
 .carousel .slide img {
+    border-radius: 40px;
     max-height: 450px;  /* change this to whatever you want */
     width: 100%;
     padding-inline: 10px;
-    /* add overlay filter */
-    filter: brightness(50%);
+    filter: brightness(0.5);
+    object-fit: cover;
 }
 
 .carousel .slide .legend {
     /* background: rgba(0, 0, 0, 0.8); */
     background: transparent;
-    height: 40%;
+    height: 60%;
     color: white;
     h1 {
-        font-size: clamp(1.5rem, 3vw, 3rem);
+        font-size: clamp(1rem, 3vw, 3rem);
         padding-bottom: 10px;
+        text-align: left;
     }
     p {
         font-size: 1.5em;
