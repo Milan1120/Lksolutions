@@ -54,10 +54,10 @@ const Services = () => {
                           </div>
                         </div>
                         <div className="pl-7">
-                          <h3 className="srvc_sl_hm text-left text-[20px] font-bold text-white">
+                          <h3 className="srvc_sl_hm text-left text-[20px] font-bold text-inherit">
                             Mobile App Development
                           </h3>
-                          <p className="mt-4 text-left text-white">
+                          <p className="mt-4 text-left text-inherit">
                             An award-winning mobile app development and design
                             agency with over a decade of experience. Get
                             perfectly crafted, innovative, and value-driven
@@ -98,10 +98,10 @@ const Services = () => {
                           </div>
                         </div>
                         <div className="pl-7">
-                          <h3 className="srvc_sl_hm text-left text-[20px] font-bold text-white">
+                          <h3 className="srvc_sl_hm text-left text-[20px] font-bold text-inherit">
                             Web Development Company
                           </h3>
-                          <p className="mt-4 text-left text-white">
+                          <p className="mt-4 text-left text-inherit">
                             More than 80 percent of users believe that a
                             user-friendly website is the most important feature.
                             Our web development services deliver enterprise web
@@ -144,10 +144,10 @@ const Services = () => {
                           </div>
                         </div>
                         <div className="pl-7">
-                          <h3 className="srvc_sl_hm text-left text-[20px] font-bold text-white">
+                          <h3 className="srvc_sl_hm text-left text-[20px] font-bold text-inherit">
                             Ecommerce Solution
                           </h3>
-                          <p className="mt-4 text-left text-white">
+                          <p className="mt-4 text-left text-inherit">
                             An award-winning fully managed eCommerce website
                             development company specializing in structuring an
                             ecommerce website for your unique online business
@@ -189,10 +189,10 @@ const Services = () => {
                           </div>
                         </div>
                         <div className="pl-7">
-                          <h3 className="srvc_sl_hm text-left text-[20px] font-bold text-white">
+                          <h3 className="srvc_sl_hm text-left text-[20px] font-bold text-inherit">
                             UI/UX Design Services
                           </h3>
-                          <p className="mt-4 text-left text-white">
+                          <p className="mt-4 text-left text-inherit">
                             Simplifying business challenges with creative UI/UX
                             design solutions. Strategically crafted visually
                             appealing and fully functional digital experiences
@@ -236,10 +236,10 @@ const Services = () => {
                           </div>
                         </div>
                         <div className="pl-7">
-                          <h3 className="srvc_sl_hm text-left text-[20px] font-bold text-white">
+                          <h3 className="srvc_sl_hm text-left text-[20px] font-bold text-inherit">
                             Digital Marketing
                           </h3>
-                          <p className="mt-4 text-left text-white">
+                          <p className="mt-4 text-left text-inherit">
                             Digital marketing services are a powerful tool that
                             can help businesses to reach the right audience, and
                             grow the brand. Get ready for unexpected brand
@@ -280,10 +280,10 @@ const Services = () => {
                           </div>
                         </div>
                         <div className="pl-7">
-                          <h3 className="srvc_sl_hm text-left text-[20px] font-bold text-white">
+                          <h3 className="srvc_sl_hm text-left text-[20px] font-bold text-inherit">
                             AI/ML Development Company
                           </h3>
-                          <p className="mt-4 text-left text-white">
+                          <p className="mt-4 text-left text-inherit">
                             A progressive AI/ML development company, building
                             futuristic digital solutions. Winning the trust of
                             global businesses across industries we use the power
@@ -326,10 +326,10 @@ const Services = () => {
                           </div>
                         </div>
                         <div className="pl-7">
-                          <h3 className="srvc_sl_hm text-left text-[20px] font-bold text-white">
+                          <h3 className="srvc_sl_hm text-left text-[20px] font-bold text-inherit">
                             Staffing Services
                           </h3>
-                          <p className="mt-4 text-left text-white">
+                          <p className="mt-4 text-left text-inherit">
                             Engage the services of professional staffing agency
                             to make valuable additions to your workforce or
                             reposition your team with highly qualified
