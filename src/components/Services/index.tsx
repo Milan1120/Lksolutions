@@ -19,7 +19,7 @@ const Services = () => {
             <div className="swiper">
               <div className="slide-container hm-srvc-sec swiper-initialized swiper-horizontal swiper-backface-hidden w-[100%] sm:w-[100%]">
                 <div
-                  className="px-auto card-wrapper swiper-wrapper flex flex-wrap gap-4 justify-center w-[100%]"
+                  className="px-auto card-wrapper swiper-wrapper flex w-[100%] flex-wrap justify-center gap-4"
                   id="swiper-wrapper-19ba38c6beffa67b"
                   aria-live="off"
                 >
@@ -29,19 +29,17 @@ const Services = () => {
                       <div className="product-block">
                         <div className="title mb-4 flex items-center justify-between lg:mb-12">
                           <div className="shape-con flex h-[63px] w-[65px] items-center justify-end rounded-br-full rounded-tr-full pr-2 shadow-lg">
-                            <a href="https://www.appnwebtechnologies.com/mobile-app-development">
-                              <div className="rounded-div flex h-[49px] w-[49px] items-center justify-center rounded-full  bg-[#eee]">
-                                <svg
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  width="20"
-                                  height="13"
-                                  viewBox="0 0 20 13"
-                                  fill="#0072C6"
-                                >
-                                  <path d="M1.28613 5.61394C0.836415 5.61394 0.471847 5.97851 0.471847 6.42822C0.471847 6.87794 0.836415 7.24251 1.28613 7.24251L1.28613 5.61394ZM18.9619 7.00401C19.2799 6.68601 19.2799 6.17044 18.9619 5.85244L13.7798 0.670355C13.4618 0.352356 12.9463 0.352356 12.6283 0.670354C12.3103 0.988353 12.3103 1.50393 12.6283 1.82193L17.2346 6.42822L12.6283 11.0345C12.3103 11.3525 12.3103 11.8681 12.6283 12.1861C12.9463 12.5041 13.4618 12.5041 13.7798 12.1861L18.9619 7.00401ZM1.28613 7.24251L18.3861 7.24251L18.3861 5.61394L1.28613 5.61394L1.28613 7.24251Z"></path>
-                                </svg>
-                              </div>
-                            </a>
+                            <div className="rounded-div flex h-[49px] w-[49px] items-center justify-center rounded-full  bg-[#eee]">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="20"
+                                height="13"
+                                viewBox="0 0 20 13"
+                                fill="#0072C6"
+                              >
+                                <path d="M1.28613 5.61394C0.836415 5.61394 0.471847 5.97851 0.471847 6.42822C0.471847 6.87794 0.836415 7.24251 1.28613 7.24251L1.28613 5.61394ZM18.9619 7.00401C19.2799 6.68601 19.2799 6.17044 18.9619 5.85244L13.7798 0.670355C13.4618 0.352356 12.9463 0.352356 12.6283 0.670354C12.3103 0.988353 12.3103 1.50393 12.6283 1.82193L17.2346 6.42822L12.6283 11.0345C12.3103 11.3525 12.3103 11.8681 12.6283 12.1861C12.9463 12.5041 13.4618 12.5041 13.7798 12.1861L18.9619 7.00401ZM1.28613 7.24251L18.3861 7.24251L18.3861 5.61394L1.28613 5.61394L1.28613 7.24251Z"></path>
+                              </svg>
+                            </div>
                           </div>
                           <div className="icon-shrap srvc_icn flex h-[75px] w-[75px] items-center justify-center rounded-full">
                             <Image
@@ -73,19 +71,17 @@ const Services = () => {
                       <div className="product-block">
                         <div className="title mb-4 flex items-center justify-between lg:mb-12">
                           <div className="shape-con flex h-[63px] w-[65px] items-center justify-end rounded-br-full rounded-tr-full pr-2 shadow-lg">
-                            <a href="https://www.appnwebtechnologies.com/web-development-company">
-                              <div className="rounded-div flex h-[49px] w-[49px] items-center justify-center rounded-full  bg-[#eee]">
-                                <svg
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  width="20"
-                                  height="13"
-                                  viewBox="0 0 20 13"
-                                  fill="#0072C6"
-                                >
-                                  <path d="M1.28613 5.61394C0.836415 5.61394 0.471847 5.97851 0.471847 6.42822C0.471847 6.87794 0.836415 7.24251 1.28613 7.24251L1.28613 5.61394ZM18.9619 7.00401C19.2799 6.68601 19.2799 6.17044 18.9619 5.85244L13.7798 0.670355C13.4618 0.352356 12.9463 0.352356 12.6283 0.670354C12.3103 0.988353 12.3103 1.50393 12.6283 1.82193L17.2346 6.42822L12.6283 11.0345C12.3103 11.3525 12.3103 11.8681 12.6283 12.1861C12.9463 12.5041 13.4618 12.5041 13.7798 12.1861L18.9619 7.00401ZM1.28613 7.24251L18.3861 7.24251L18.3861 5.61394L1.28613 5.61394L1.28613 7.24251Z"></path>
-                                </svg>
-                              </div>
-                            </a>
+                            <div className="rounded-div flex h-[49px] w-[49px] items-center justify-center rounded-full  bg-[#eee]">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="20"
+                                height="13"
+                                viewBox="0 0 20 13"
+                                fill="#0072C6"
+                              >
+                                <path d="M1.28613 5.61394C0.836415 5.61394 0.471847 5.97851 0.471847 6.42822C0.471847 6.87794 0.836415 7.24251 1.28613 7.24251L1.28613 5.61394ZM18.9619 7.00401C19.2799 6.68601 19.2799 6.17044 18.9619 5.85244L13.7798 0.670355C13.4618 0.352356 12.9463 0.352356 12.6283 0.670354C12.3103 0.988353 12.3103 1.50393 12.6283 1.82193L17.2346 6.42822L12.6283 11.0345C12.3103 11.3525 12.3103 11.8681 12.6283 12.1861C12.9463 12.5041 13.4618 12.5041 13.7798 12.1861L18.9619 7.00401ZM1.28613 7.24251L18.3861 7.24251L18.3861 5.61394L1.28613 5.61394L1.28613 7.24251Z"></path>
+                              </svg>
+                            </div>
                           </div>
                           <div className="icon-shrap srvc_icn flex h-[75px] w-[75px] items-center justify-center rounded-full">
                             <Image
@@ -164,19 +160,17 @@ const Services = () => {
                       <div className="product-block">
                         <div className="title mb-4 flex items-center justify-between lg:mb-12">
                           <div className="shape-con flex h-[63px] w-[65px] items-center justify-end rounded-br-full rounded-tr-full pr-2 shadow-lg">
-                            <a href="https://www.appnwebtechnologies.com/ui-ux-design">
-                              <div className="rounded-div flex h-[49px] w-[49px] items-center justify-center rounded-full  bg-[#eee]">
-                                <svg
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  width="20"
-                                  height="13"
-                                  viewBox="0 0 20 13"
-                                  fill="#0072C6"
-                                >
-                                  <path d="M1.28613 5.61394C0.836415 5.61394 0.471847 5.97851 0.471847 6.42822C0.471847 6.87794 0.836415 7.24251 1.28613 7.24251L1.28613 5.61394ZM18.9619 7.00401C19.2799 6.68601 19.2799 6.17044 18.9619 5.85244L13.7798 0.670355C13.4618 0.352356 12.9463 0.352356 12.6283 0.670354C12.3103 0.988353 12.3103 1.50393 12.6283 1.82193L17.2346 6.42822L12.6283 11.0345C12.3103 11.3525 12.3103 11.8681 12.6283 12.1861C12.9463 12.5041 13.4618 12.5041 13.7798 12.1861L18.9619 7.00401ZM1.28613 7.24251L18.3861 7.24251L18.3861 5.61394L1.28613 5.61394L1.28613 7.24251Z"></path>
-                                </svg>
-                              </div>
-                            </a>
+                            <div className="rounded-div flex h-[49px] w-[49px] items-center justify-center rounded-full  bg-[#eee]">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="20"
+                                height="13"
+                                viewBox="0 0 20 13"
+                                fill="#0072C6"
+                              >
+                                <path d="M1.28613 5.61394C0.836415 5.61394 0.471847 5.97851 0.471847 6.42822C0.471847 6.87794 0.836415 7.24251 1.28613 7.24251L1.28613 5.61394ZM18.9619 7.00401C19.2799 6.68601 19.2799 6.17044 18.9619 5.85244L13.7798 0.670355C13.4618 0.352356 12.9463 0.352356 12.6283 0.670354C12.3103 0.988353 12.3103 1.50393 12.6283 1.82193L17.2346 6.42822L12.6283 11.0345C12.3103 11.3525 12.3103 11.8681 12.6283 12.1861C12.9463 12.5041 13.4618 12.5041 13.7798 12.1861L18.9619 7.00401ZM1.28613 7.24251L18.3861 7.24251L18.3861 5.61394L1.28613 5.61394L1.28613 7.24251Z"></path>
+                              </svg>
+                            </div>
                           </div>
                           <div className="icon-shrap srvc_icn flex h-[75px] w-[75px] items-center justify-center rounded-full">
                             <Image
@@ -211,19 +205,17 @@ const Services = () => {
                       <div className="product-block">
                         <div className="title mb-4 flex items-center justify-between lg:mb-12">
                           <div className="shape-con flex h-[63px] w-[65px] items-center justify-end rounded-br-full rounded-tr-full pr-2 shadow-lg">
-                            <a href="https://www.appnwebtechnologies.com/digital-marketing-services">
-                              <div className="rounded-div flex h-[49px] w-[49px] items-center justify-center rounded-full  bg-[#eee]">
-                                <svg
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  width="20"
-                                  height="13"
-                                  viewBox="0 0 20 13"
-                                  fill="#0072C6"
-                                >
-                                  <path d="M1.28613 5.61394C0.836415 5.61394 0.471847 5.97851 0.471847 6.42822C0.471847 6.87794 0.836415 7.24251 1.28613 7.24251L1.28613 5.61394ZM18.9619 7.00401C19.2799 6.68601 19.2799 6.17044 18.9619 5.85244L13.7798 0.670355C13.4618 0.352356 12.9463 0.352356 12.6283 0.670354C12.3103 0.988353 12.3103 1.50393 12.6283 1.82193L17.2346 6.42822L12.6283 11.0345C12.3103 11.3525 12.3103 11.8681 12.6283 12.1861C12.9463 12.5041 13.4618 12.5041 13.7798 12.1861L18.9619 7.00401ZM1.28613 7.24251L18.3861 7.24251L18.3861 5.61394L1.28613 5.61394L1.28613 7.24251Z"></path>
-                                </svg>
-                              </div>
-                            </a>
+                            <div className="rounded-div flex h-[49px] w-[49px] items-center justify-center rounded-full  bg-[#eee]">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="20"
+                                height="13"
+                                viewBox="0 0 20 13"
+                                fill="#0072C6"
+                              >
+                                <path d="M1.28613 5.61394C0.836415 5.61394 0.471847 5.97851 0.471847 6.42822C0.471847 6.87794 0.836415 7.24251 1.28613 7.24251L1.28613 5.61394ZM18.9619 7.00401C19.2799 6.68601 19.2799 6.17044 18.9619 5.85244L13.7798 0.670355C13.4618 0.352356 12.9463 0.352356 12.6283 0.670354C12.3103 0.988353 12.3103 1.50393 12.6283 1.82193L17.2346 6.42822L12.6283 11.0345C12.3103 11.3525 12.3103 11.8681 12.6283 12.1861C12.9463 12.5041 13.4618 12.5041 13.7798 12.1861L18.9619 7.00401ZM1.28613 7.24251L18.3861 7.24251L18.3861 5.61394L1.28613 5.61394L1.28613 7.24251Z"></path>
+                              </svg>
+                            </div>
                           </div>
                           <div className="icon-shrap srvc_icn flex h-[75px] w-[75px] items-center justify-center rounded-full">
                             <Image
@@ -255,19 +247,17 @@ const Services = () => {
                       <div className="product-block">
                         <div className="title mb-4 flex items-center justify-between lg:mb-12">
                           <div className="shape-con flex h-[63px] w-[65px] items-center justify-end rounded-br-full rounded-tr-full pr-2 shadow-lg">
-                            <a href="https://www.appnwebtechnologies.com/ai-ml-development-services">
-                              <div className="rounded-div flex h-[49px] w-[49px] items-center justify-center rounded-full  bg-[#eee]">
-                                <svg
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  width="20"
-                                  height="13"
-                                  viewBox="0 0 20 13"
-                                  fill="#0072C6"
-                                >
-                                  <path d="M1.28613 5.61394C0.836415 5.61394 0.471847 5.97851 0.471847 6.42822C0.471847 6.87794 0.836415 7.24251 1.28613 7.24251L1.28613 5.61394ZM18.9619 7.00401C19.2799 6.68601 19.2799 6.17044 18.9619 5.85244L13.7798 0.670355C13.4618 0.352356 12.9463 0.352356 12.6283 0.670354C12.3103 0.988353 12.3103 1.50393 12.6283 1.82193L17.2346 6.42822L12.6283 11.0345C12.3103 11.3525 12.3103 11.8681 12.6283 12.1861C12.9463 12.5041 13.4618 12.5041 13.7798 12.1861L18.9619 7.00401ZM1.28613 7.24251L18.3861 7.24251L18.3861 5.61394L1.28613 5.61394L1.28613 7.24251Z"></path>
-                                </svg>
-                              </div>
-                            </a>
+                            <div className="rounded-div flex h-[49px] w-[49px] items-center justify-center rounded-full  bg-[#eee]">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="20"
+                                height="13"
+                                viewBox="0 0 20 13"
+                                fill="#0072C6"
+                              >
+                                <path d="M1.28613 5.61394C0.836415 5.61394 0.471847 5.97851 0.471847 6.42822C0.471847 6.87794 0.836415 7.24251 1.28613 7.24251L1.28613 5.61394ZM18.9619 7.00401C19.2799 6.68601 19.2799 6.17044 18.9619 5.85244L13.7798 0.670355C13.4618 0.352356 12.9463 0.352356 12.6283 0.670354C12.3103 0.988353 12.3103 1.50393 12.6283 1.82193L17.2346 6.42822L12.6283 11.0345C12.3103 11.3525 12.3103 11.8681 12.6283 12.1861C12.9463 12.5041 13.4618 12.5041 13.7798 12.1861L18.9619 7.00401ZM1.28613 7.24251L18.3861 7.24251L18.3861 5.61394L1.28613 5.61394L1.28613 7.24251Z"></path>
+                              </svg>
+                            </div>
                           </div>
                           <div className="icon-shrap srvc_icn flex h-[75px] w-[75px] items-center justify-center rounded-full">
                             <Image
@@ -301,19 +291,17 @@ const Services = () => {
                       <div className="product-block">
                         <div className="title mb-4 flex items-center justify-between lg:mb-12">
                           <div className="shape-con flex h-[63px] w-[65px] items-center justify-end rounded-br-full rounded-tr-full pr-2 shadow-lg">
-                            <a href="https://www.appnwebtechnologies.com/staffing-services">
-                              <div className="rounded-div flex h-[49px] w-[49px] items-center justify-center rounded-full  bg-[#eee]">
-                                <svg
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  width="20"
-                                  height="13"
-                                  viewBox="0 0 20 13"
-                                  fill="#0072C6"
-                                >
-                                  <path d="M1.28613 5.61394C0.836415 5.61394 0.471847 5.97851 0.471847 6.42822C0.471847 6.87794 0.836415 7.24251 1.28613 7.24251L1.28613 5.61394ZM18.9619 7.00401C19.2799 6.68601 19.2799 6.17044 18.9619 5.85244L13.7798 0.670355C13.4618 0.352356 12.9463 0.352356 12.6283 0.670354C12.3103 0.988353 12.3103 1.50393 12.6283 1.82193L17.2346 6.42822L12.6283 11.0345C12.3103 11.3525 12.3103 11.8681 12.6283 12.1861C12.9463 12.5041 13.4618 12.5041 13.7798 12.1861L18.9619 7.00401ZM1.28613 7.24251L18.3861 7.24251L18.3861 5.61394L1.28613 5.61394L1.28613 7.24251Z"></path>
-                                </svg>
-                              </div>
-                            </a>
+                            <div className="rounded-div flex h-[49px] w-[49px] items-center justify-center rounded-full  bg-[#eee]">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="20"
+                                height="13"
+                                viewBox="0 0 20 13"
+                                fill="#0072C6"
+                              >
+                                <path d="M1.28613 5.61394C0.836415 5.61394 0.471847 5.97851 0.471847 6.42822C0.471847 6.87794 0.836415 7.24251 1.28613 7.24251L1.28613 5.61394ZM18.9619 7.00401C19.2799 6.68601 19.2799 6.17044 18.9619 5.85244L13.7798 0.670355C13.4618 0.352356 12.9463 0.352356 12.6283 0.670354C12.3103 0.988353 12.3103 1.50393 12.6283 1.82193L17.2346 6.42822L12.6283 11.0345C12.3103 11.3525 12.3103 11.8681 12.6283 12.1861C12.9463 12.5041 13.4618 12.5041 13.7798 12.1861L18.9619 7.00401ZM1.28613 7.24251L18.3861 7.24251L18.3861 5.61394L1.28613 5.61394L1.28613 7.24251Z"></path>
+                              </svg>
+                            </div>
                           </div>
                           <div className="icon-shrap srvc_icn flex h-[75px] w-[75px] items-center justify-center rounded-full">
                             <Image
