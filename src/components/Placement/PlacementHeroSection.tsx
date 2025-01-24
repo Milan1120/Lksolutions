@@ -2,7 +2,7 @@ import React from "react";
 
 const PlacementHeroSection = () => {
   return (
-    <section className=" py-20 px-6 md:px-12 lg:px-20">
+    <section className=" py-5 px-6 md:px-12 lg:px-20">
       <div className="flex flex-col lg:flex-row items-center lg:space-x-10">
         {/* Left Section */}
         <div className="lg:w-1/2 text-center lg:text-left">

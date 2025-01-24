@@ -31,7 +31,7 @@ const OurAlumini = () => {
     return (
         <section className="py-10 px-4 sm:px-6 lg:px-[30px] overflow-hidden">
             <h2 className="text-center text-2xl md:text-3xl font-bold mb-6">
-                Our Client Companies
+                Our Alumini Works at
             </h2>
             <div className="relative w-full overflow-hidden">
                 {/* Animated scrolling container */}
