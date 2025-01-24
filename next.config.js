@@ -13,6 +13,11 @@ const nextConfig = {
         hostname: "www.appnwebtechnologies.com",
         port: "",
       },
+      {
+        protocol: "https",
+        hostname: "picsum.photos",
+        pathname: "/**",
+      },
     ],
   },
 };
