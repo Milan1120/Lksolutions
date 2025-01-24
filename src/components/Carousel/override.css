@@ -1,0 +1,31 @@
+.carousel .thumb img {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.carousel .slide img {
+    max-height: 450px;  /* change this to whatever you want */
+    width: 100%;
+    padding-inline: 10px;
+    /* add overlay filter */
+    filter: brightness(50%);
+}
+
+.carousel .slide .legend {
+    /* background: rgba(0, 0, 0, 0.8); */
+    background: transparent;
+    height: 40%;
+    color: white;
+    h1 {
+        font-size: clamp(1.5rem, 3vw, 3rem);
+        padding-bottom: 10px;
+    }
+    p {
+        font-size: 1.5em;
+    }
+}
+.carousel:not(:hover) {
+    .slide .legend {
+        opacity: 1;
+    }
+}

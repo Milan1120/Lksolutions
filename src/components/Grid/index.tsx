@@ -109,7 +109,7 @@ const Grid = () => {
             </p>
           </div>
         </div>
-        <div className="flex flex-col sm:flex-row justify-center items-center sm:items-start">
+        <div className="flex gap-2 flex-col sm:flex-row justify-center items-center sm:items-start">
             <a href="https://docs.google.com/forms/d/13e-SD_N9kFctfhTaCEQCpmgvU1_JUVjKwvDoOiWFaOw/edit" target="_blank" className="px-5 py-2 bg-purple-500 rounded-md text-white sm:mr-4 font-normal block text-center btn-data btn-utl">Become
                 a Partner</a>
             <a href="https://docs.google.com/forms/d/13e-SD_N9kFctfhTaCEQCpmgvU1_JUVjKwvDoOiWFaOw/edit" target="_blank" className="px-5 py-2 bg-red-500 rounded-md text-white  sm:mr-4 font-normal block text-center btn-data  btn-utl">Get
