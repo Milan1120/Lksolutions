@@ -2,12 +2,20 @@
 // import Breadcrumb from "@/components/Common/Breadcrumb";
 import React from "react";
 import PlacementContent1 from "./PlacementContent1";
+import PlacementHeroSection from "./PlacementHeroSection";
+import PlacementCertificate from "./PlacementCertificate";
+import OurAlumini from "./OurAlumini";
 
 const PlacementOne = () => {
   return (
-    <> 
+    <>  
+       
       
       <div className="overflow-hidden py-16 xs:py-20 md:py-24 lg:py-28 px-4 xs:px-8 sm:px-12 md:px-16 lg:px-20 xl:px-25">
+
+      <PlacementHeroSection/>
+      <section className=" py-20 px-6 md:px-12 lg:px-20">
+
       <div className="flex flex-col space-y-8">
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold">
           Technical Training and Placement: A Pathway to Professional Excellence
@@ -27,6 +35,10 @@ const PlacementOne = () => {
 
       </div>
       <PlacementContent1/>
+       <PlacementCertificate/>
+       <OurAlumini/>
+      </section>
+      
     </div>
     </>
   );
