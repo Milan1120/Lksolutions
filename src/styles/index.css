@@ -9,6 +9,14 @@
     font-family: "Inter", sans-serif;
   }
 }
+.hide-scrollbar {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none; /* WebKit */
+}
 
 @layer components {
   input[type="checkbox"]:checked ~ label span svg {

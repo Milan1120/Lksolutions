@@ -3,13 +3,13 @@ import React from "react";
 const certifications = [
   {
     id: 1,
-    imgSrc: "public/images/hero/mca.jpeg",
+    imgSrc: "/images/hero/mca.jpeg",
     alt: "Ministry of Corporate Affairs",
     description: "Ministry of Corporate Affairs",
   },
   {
     id: 2,
-    imgSrc: "/images/msme-logo.png",
+    imgSrc: "/images/hero/msme.png",
     alt: "MSME",
     description: "Micro, Small and Medium Enterprises",
   },

@@ -18,7 +18,7 @@ const features = [
     {
         title: "Equality Driven",
         description:
-            "At APPNWEB we believe everyone should be valued, seen, heard, and respected.",
+            "At Lksolution we believe everyone should be valued, seen, heard, and respected.",
         bgColor: "bg-blue-100",
         icon: "⚖️",
     },
