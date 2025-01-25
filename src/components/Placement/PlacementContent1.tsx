@@ -1,15 +1,15 @@
 import React from "react";
 
 const features = [
-  { id: 1, title: "Counseling", imgSrc: "public/images/hero/counsling.svg" },
+  { id: 1, title: "Counseling", imgSrc: "/images/hero/counsling.svg" },
   { id: 2, title: "Training", imgSrc: "/images/hero/training.svg "},
   { id: 3, title: "Assignments", imgSrc: "/images/hero/assignments.svg" },
   { id: 4, title: "Projects", imgSrc: "/images/hero/project.svg" },
   { id: 5, title: "CV Building", imgSrc: "/images/hero/cv.svg" },
   { id: 6, title: "Career Growth", imgSrc: "/images/hero/career.svg" },
   { id: 7, title: "Mock Interview", imgSrc: "/images/hero/mock-interviews.svg" },
-  { id: 8, title: "Grooming", imgSrc: "/images/hero/shape-01.svg" },
-  { id: 9, title: "Interview", imgSrc: "/images/hero/shape-02.svg" },
+  { id: 8, title: "Grooming", imgSrc: "/images/hero/job-oriented-training.png" },
+  { id: 9, title: "Interview", imgSrc: "/images/hero/interview.svg" },
   { id: 10, title: "Placement", imgSrc: "/images/hero/placement-assistance-img.png" },
 ];
 
