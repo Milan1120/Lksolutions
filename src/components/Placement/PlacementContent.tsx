@@ -27,9 +27,6 @@ const PlacementOne = () => {
           Our Training and Placement Officer plays a pivotal role in preparing students for the competitive job market. Through a combination of personality development sessions and placement assistance, students are groomed for success. Placement opportunities are provided through in-campus and off-campus placement drives, ensuring comprehensive support for their career aspirations.
         </p>
         <p className="text-sm sm:text-base md:text-lg leading-relaxed">
-          Recently, Technoglobe organized a Mega Job Fair at its Gopalpura Campus and the Bhandari Hospital auditorium. This event witnessed the participation of over 300 candidates and 15+ reputed companies. The job fair concluded with remarkable success, as more than 50 candidates secured positions across diverse domains, including IT, Sales, Finance, SEO, Administration, and Accounting.
-        </p>
-        <p className="text-sm sm:text-base md:text-lg leading-relaxed">
           The event was also attended by several esteemed guests who recognized and appreciated Technoglobe&apos;s dedicated efforts in bridging the gap between education and employment. Their presence inspired and motivated students to achieve their professional goals.
         </p>
 
