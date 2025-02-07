@@ -107,7 +107,7 @@ const Footer = () => {
         </div>
 
         {/* Partnerships */}
-        <div className="mb-12 w-full px-4 md:w-1/2 lg:mb-16 lg:w-4/12 xl:w-3/12">
+        {/* <div className="mb-12 w-full px-4 md:w-1/2 lg:mb-16 lg:w-4/12 xl:w-3/12">
           <h2 className="mb-10 text-nowrap text-xl font-semibold text-black dark:text-white">
             Partnerships with us
           </h2>
@@ -117,7 +117,7 @@ const Footer = () => {
             <img src="/images/ctlogo.png" className="h-[100px] w-[100%]" />
             <img src="/images/kietclogo.png" className="h-[100px] w-[100%]" />
           </div>
-        </div>
+        </div> */}
       </div>
     </footer>
   );
